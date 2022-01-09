@@ -29,4 +29,3 @@ def ask(question):
 def append_interaction_to_chat_log(question, answer):
     global chat_log
     chat_log = f'{chat_log}{restart_sequence} {question}{start_sequence}{answer}'
-    print(chat_log)
