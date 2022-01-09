@@ -4,8 +4,8 @@
 ### Ps- Sometimes this bot can get very rude :p
 ### Till 10th September, the bot have replied over 135k + messages 😃
 ## Here are some examples of it
-### ![Screenshot_4](https://user-images.githubusercontent.com/49405291/126059845-90dc8b73-160b-4ca8-9f2f-4f52ef8e1309.png) ![Screenshot_5](https://user-images.githubusercontent.com/49405291/126059823-abfe5524-d8df-4465-ac3f-fc0125142156.png) 
-#### ![Screenshot_6](https://user-images.githubusercontent.com/49405291/126059828-5036d42e-7660-4565-ac78-6362b7a34be8.png) ![Screenshot_7](https://user-images.githubusercontent.com/49405291/126059830-e2b4e95e-fb31-4269-8097-7559a932f871.png) 
+### ![Screenshot_4](https://user-images.githubusercontent.com/49405291/126059845-90dc8b73-160b-4ca8-9f2f-4f52ef8e1309.png) ![Screenshot_5](https://user-images.githubusercontent.com/49405291/126059823-abfe5524-d8df-4465-ac3f-fc0125142156.png)
+#### ![Screenshot_6](https://user-images.githubusercontent.com/49405291/126059828-5036d42e-7660-4565-ac78-6362b7a34be8.png) ![Screenshot_7](https://user-images.githubusercontent.com/49405291/126059830-e2b4e95e-fb31-4269-8097-7559a932f871.png)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### **How can you use it?**
 ##### 1. Join this server - https://discord.gg/WzDDbxCqTv
@@ -19,6 +19,3 @@
 ##### 1. Provide your OpenAI key in the environment file
 ##### 2. Provide your Discord Bot's secret key, in the main Bot.py file at the last line
 ##### 3. That's it and you can host it on heroku just by using Heroku CLI and uploading all the files I have here
-
-## Areas of Improvement
-### I couldn't figure out how to update the chat-log, as everytime an user messages the chatlog gets empty instead I want the chatlog to get updated with the conversation, so that the bot replies more accurately.

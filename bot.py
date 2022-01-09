@@ -19,16 +19,16 @@ list_user = []
 async def on_message(message):
     if message.channel.id == message.author.dm_channel.id: # dm only
         #await message.channel.send('ping')
-        chat_log = ""
+        # chat_log = ""
         list_user.append(message.author.id)
         question = message.content
-        answer = OpenAi.ask(question, chat_log)
-        chat_log = OpenAi.append_interaction_to_chat_log(question, answer,chat_log)
+        answer = OpenAi.ask(question)
+        # chat_log = OpenAi.append_interaction_to_chat_log(question, answer,chat_log)
         await message.channel.send(answer)
-        f = open("log_user.txt", "w")
-        for it in list_user:
-        	f.write("%i\n" % it)
-        f.close()
+        # f = open("log_user.txt", "w")
+        # for it in list_user:
+        # 	f.write("%i\n" % it)
+        # f.close()
 
 
 @client.command()
@@ -37,4 +37,4 @@ async def shutdown(context):
     exit()
 
 
-client.run("Your Discord Key")
+client.run("OTI4OTE0MTAwOTYzMTM5NjI0.YdfsrA.QZhSRV7aSglhXiPjQQsjuOiIl7k")
