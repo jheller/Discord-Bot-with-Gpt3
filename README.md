@@ -1,5 +1,5 @@
 # Discord-Bot-with-Gpt3
-*This is an interactive bot made with Open Ai's Gpt3 Technology, I have used the sarcastic Q&A bot for this one, Although the bot replies accurate to most of the question you ask but sometimes it is a bit random and is wierd :D*
+*This is an interactive bot made with OpenAi's Gpt3 Technology, I have used the sarcastic Q&A bot for this one, Although the bot replies accurate to most of the question you ask but sometimes it is a bit random and is wierd :D*
 
 Sometimes this bot can get very rude :p
 
